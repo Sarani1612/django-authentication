@@ -1,0 +1,4 @@
+db.sqlite3
+.gitpod.dockerfile
+.gitpod.yml
+.theia
