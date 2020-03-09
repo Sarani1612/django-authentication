@@ -28,7 +28,7 @@ SECRET_KEY = ')x@9r@v5)o^e81=5*7859v6la6wy%7+o9e%x0^3e(qb&$s!9=_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sara-django-auth.herokuapp.com']
 
 
 # Application definition
