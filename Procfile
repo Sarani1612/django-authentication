@@ -1,1 +1,1 @@
-web: gunicorn django_auth.wsgi
+web gunicorn django_auth.wsgi
